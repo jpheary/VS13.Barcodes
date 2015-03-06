@@ -1,0 +1,7 @@
+﻿
+
+Development Installation:
+C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateAssemblies
+
+Server Installation:
+\\<servername>\c$\Program Files\Microsoft SQL Server\MSRS10_50.MSSQLSERVER\Reporting Services\ReportServer\bin
